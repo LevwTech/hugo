@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Weeb Nation'
+theme = "ga-hugo-theme"
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    fan = "fans"
